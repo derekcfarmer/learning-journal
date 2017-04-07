@@ -1,0 +1,5 @@
+Well, we spent a ton of time going over the lab this morning and spent about ten minutes on the html. We didn't get to a couple of the learning objectives as a result: publishing a static webpage on github, and strengths/weaknesses of different image formats. I'm sure we'll hit that Monday, but I do wonder whether we're getting behind and what that will mean later on. All that said, it was helpful to have gone through the lab so closely.
+
+Saw Brook give a lunch 'n' learn on the whiteboard interview process. It was interesting, but reallly geared for interviewers, not interviewees. I would have appreciated a talk more geared to helping me navigate those interviews, since we'll be going through them regardless of how we might feel about them. Perhaps this will come later?
+
+Lab was a frustrating but ultimately helpful exercise in attention to detail. I always had my concepts right, it was just a question of getting the structure precisely right. In the end it felt pretty good to have it done -- I accomplished something!
